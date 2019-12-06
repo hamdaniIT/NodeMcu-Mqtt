@@ -2,8 +2,8 @@
 #include <PubSubClient.h>
 
 //Pengaturan Koneksi 
-const char* ssid = "abc";
-const char* password =  "22223333";
+const char* ssid = "ssid";
+const char* password =  "34133343";
 const char* mqttServer = "postman.cloudmqtt.com";
 const int mqttPort =  13889;
 const char* mqttUser = "***fhoer";
